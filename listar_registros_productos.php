@@ -17,7 +17,7 @@
                                     <td style="text-align: center;">Categoria</td>  
                                     <td style="text-align: center;">Código</td>
                                     <td style="text-align: center;">Nombre producto</td>
-                                    <td style="text-align: center;">Precio</td>
+                                    <td style="text-align: center;">Precios</td>
                                     <td style="text-align: center;">Cantidad</td>
                                     <td style="text-align: center;">Editar</td>
                                     <td style="text-align: center;">Eliminar</td>
