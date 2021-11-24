@@ -1,0 +1,8 @@
+.wp-core-ui select[multiple] {
+    height: auto !important;
+    overflow: scroll;
+    font-size: 10px;
+    background: #fff !important;
+    width: 226px !important;
+    height: 160px !important;
+}

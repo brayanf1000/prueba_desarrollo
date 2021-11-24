@@ -1,0 +1,66 @@
+.dialog-inner{
+	padding:20px;
+	background:#fff;
+}
+.swal2-modal h2 {
+    font-size: 16px;
+    color: black;
+    line-height: 0px;
+    margin-top: 20px;
+}
+.swal2-modal .swal2-spacer{
+	height:0px;
+}
+.swal2-modal .styled{
+	border: none !important;
+    background: #ff0066 !important;
+    padding: 5px 30px;
+    font-size: 14px;
+    border-radius: 2px;
+	outline:none;
+}
+.swal2-modal{
+	border-radius:2px;
+	background:#fff !important;
+}
+.dialog-pro .btn-info{
+	box-shadow: 0 2px 5px rgba(0,0,0,.16), 0 2px 10px rgba(0,0,0,.12);
+    border: none;
+    outline: none !important;
+    border-radius: 2px;
+    font-size: 14px;
+    margin-right: 20px;
+    color: #fff;
+	background: #ff0066;
+}
+.dialog-pro .btn-info:hover{
+    border: none;
+    outline: none !important;
+	background: #ff0066;
+}
+.swal2-modal .swal2-content{
+	color: black;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 20px;
+}
+.swal2-icon.swal2-success::after, .swal2-icon.swal2-success::before{
+	background:#fff;
+}
+.swal2-icon.swal2-success .fix{
+	background:#fff;
+}
+.swal2-icon.swal2-success .line{
+	background-color: #ff0066;
+}
+.swal2-icon.swal2-success {
+    border-color: #ff0066;
+}
+.wp-core-ui select[multiple] {
+    height: auto !important;
+    overflow: scroll;
+    font-size: 10px;
+    background: #fff !important;
+    width: 145px !important;
+    height: 160px !important;
+}
